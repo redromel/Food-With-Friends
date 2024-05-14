@@ -1,0 +1,2 @@
+-Whenever someone DMs @Food_With_Friends acount it sends a webhook to get API.  It will save the Instagram Reel link in a server.
+-If we want to go somewhere for food, we can DM @Food_With_Friends account, and it will return a randomized reel based on what we send it
